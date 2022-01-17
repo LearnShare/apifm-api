@@ -1,5 +1,5 @@
 {
-  "name": "apifm-wxapi",
+  "name": "apifm-api",
   "version": "3.48.0",
   "description": "增加SDK方法",
   "main": "miniprogram_dist/index.js",
