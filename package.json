@@ -1,6 +1,6 @@
 {
   "name": "apifm-api",
-  "version": "3.48.0",
+  "version": "3.48.2",
   "description": "增加SDK方法",
   "main": "miniprogram_dist/index.js",
   "scripts": {
